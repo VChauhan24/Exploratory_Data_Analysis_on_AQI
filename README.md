@@ -52,10 +52,10 @@ Open and explore Jupyter notebooks in the notebooks/ folder.
 
 Open the Power BI report file from the POWER BI/ folder in Power BI Desktop.
 
-## 📬 Contact
+## 👨‍💻 Author
 
-Vishal Chauhan
+Made with 💻 by Vishal Chauhan
 
-Final Year B.Tech, ECE @ NIT Raipur
+📍 B.Tech 3rd Year Student
 
-LinkedIn | GitHub
+📫 GitHub Profile
