@@ -58,4 +58,5 @@ Made with 💻 by Vishal Chauhan
 
 📍 B.Tech 3rd Year Student
 
-📫 GitHub Profile
+📫 - [LinkedIn](https://www.linkedin.com/in/vchauhan24)  
+📫 - [GitHub](https://github.com/VChauhan24)
