@@ -60,3 +60,5 @@ Made with 💻 by Vishal Chauhan
 
 📫 - [LinkedIn](https://www.linkedin.com/in/vchauhan24)  
 📫 - [GitHub](https://github.com/VChauhan24)
+
+💡 Feel free to fork, use, or contribute to this project. Suggestions welcome!
